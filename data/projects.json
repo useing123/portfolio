@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Project 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum fermentum, magna eu hendrerit finibus, tellus dui sagittis ex, at euismod nibh mi ut ipsum.",
+    "image": "https://images.unsplash.com/photo-1681317165845-dca7dd915eb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "tags": ["Web Design", "Front-end Development"],
+    "link": "https://example.com/project1"
+  },
+  {
+    "id": 2,
+    "title": "Project 2",
+    "description": "Pellentesque ac metus ac tellus placerat auctor. Donec vitae commodo tortor, quis ultricies elit. Vivamus pellentesque ullamcorper metus, in convallis odio vehicula non.",
+    "image": "https://images.unsplash.com/photo-1681317165845-dca7dd915eb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "tags": ["Graphic Design", "Branding"],
+    "link": "https://example.com/project2"
+  },
+  {
+    "id": 3,
+    "title": "Project 3",
+    "description": "Aliquam ac congue sapien. Nam commodo erat sed tristique commodo. Etiam nec nibh vitae nisl feugiat eleifend. Duis convallis ipsum ac metus varius consectetur.",
+    "image": "https://images.unsplash.com/photo-1681317165845-dca7dd915eb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "tags": ["Web Development", "Back-end Development"],
+    "link": "https://example.com/project3"
+  }
+]
